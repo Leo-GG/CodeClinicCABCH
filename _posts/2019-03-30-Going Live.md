@@ -1,9 +1,8 @@
 ---
 layout: post
 published: true
-author: Leo
-tags: [general]
+tags: []
 title: "Going Live"
 ---
 
-# The site is now up
+The site is now up!
