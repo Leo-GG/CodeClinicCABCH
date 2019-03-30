@@ -1,4 +1,5 @@
 The Code Clinic is held every two weeks at the CABHC meeting room.
+
 Visit the [Resources](Resources.html) page for links to useful tutorials and documentation.
 
 # Posts
