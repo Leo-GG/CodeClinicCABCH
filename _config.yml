@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Code Clinic@CABCH 
+title: CodeClinic@CABHC
 email: test@test.com
-description: My latest stories and photos
-url: https://leo-gg.github.io/CodeClinicCABCH/
-site.baseurl: /CodeClinicCABCH
+description: Info and resources for the Code Clinic sessions held at the Center for Advanced Biomaterials for Healthcare in Naples (Italy)
+url: https://leo-gg.github.io/CodeClinicCABHC/
+site.baseurl: /CodeClinicCABHC
