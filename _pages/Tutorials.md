@@ -1,3 +1,9 @@
+---
+layout: default
+tags: [general]
+title: "Tutorials"
+---
+
 # Tutorials
 
 Tutorials are available here
