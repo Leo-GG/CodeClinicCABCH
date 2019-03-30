@@ -22,8 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p class="view"><a href="{{ "" | absolute_url }}">Sessions</a></p>
-        <p class="view"><a href="{{ Tutorials.html  }}">Tutorials</a></p>
+        <p class="view"><a href="{{ "" | relative_url }}">Sessions</a></p>
+        <p class="view"><a href="{{ site.github.zip_url  }}">Tutorials</a></p>
         <p class="view"><a href="{{ Tutorials.html  | relative_url }}">Tutorials using |</a></p>
         <p class="view"><a href="{{ Tutorials.html  | prepend:relative_url }}">Tutorials using prepend</a></p>
 
