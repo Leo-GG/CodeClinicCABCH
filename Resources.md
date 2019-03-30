@@ -7,6 +7,8 @@ title: "Resources"
 ## Mathworks 
 * [Basic Matlab interface](https://it.mathworks.com/help/matlab/learn_matlab/desktop.html)
 * [Arrays and Matrices in Matlab](https://it.mathworks.com/help/matlab/learn_matlab/matrices-and-arrays.html)
+* [Plotting Data](https://www.mathworks.com/help/matlab/data_analysis/plotting-data.html)
+* [Using Basic Plotting Functions (Video)](https://www.mathworks.com/videos/using-basic-plotting-functions-69018.html)
 
 ## Other sources
 * [Plotting in Matlab](https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
