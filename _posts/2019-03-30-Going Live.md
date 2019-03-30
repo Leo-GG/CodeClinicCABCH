@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-tags: []
 title: "Going Live"
 ---
 
