@@ -22,7 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p class="view"><a href="{{ Tutorials.html | prepend:site.baseurl }}">Tutorials</a></p>
+        <p class="view"><a href="{{ Tutorials.html | relative_url }}">Tutorials</a></p>
 
         
         {% if site.github.is_project_page %}
