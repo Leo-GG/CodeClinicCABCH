@@ -1,10 +1,4 @@
-# Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend:site.baseurl  }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+# Code Clinic at the CABHC@CRIB Napoli
 
+Info and resources for the Code Clinic sessions held at the Center for Advanced Biomaterials for Healthcare in Naples (Italy)
 
