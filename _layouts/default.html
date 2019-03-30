@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -22,13 +22,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <ul>
-          {% for page in site.pages %}
-            <li>
-              <a href="{{ page.url | prepend:site.baseurl  }}">{{ page.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
+        <p class="view"><a href="{{ _pages/Tutorials.html | site.github.repository_url }}">Tutorials <small>{{ site.github.repository_nwo }}</small></a></p>
+
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
