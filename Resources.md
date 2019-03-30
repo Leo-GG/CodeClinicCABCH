@@ -1,13 +1,12 @@
 ---
 layout: default
-tags: [general]
-title: "Tutorials"
+title: "Resources"
 ---
 
 # MATLAB Tutorials
 ## Mathworks 
-*Source
-*Source
-*Source
+* Source
+* Source
+* Source
 ## Other sources
  
