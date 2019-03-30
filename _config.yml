@@ -5,3 +5,4 @@ description: Info and resources for the Code Clinic sessions held at the Center 
 url: https://leo-gg.github.io/CodeClinicCABHC/
 site.baseurl: /CodeClinicCABHC
 logo: logo.png
+site.author: Leo-GG
