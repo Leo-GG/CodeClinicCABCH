@@ -3,6 +3,6 @@ title: CodeClinic@CABHC
 email: leonardo.garma@gmail.com
 description: Info and resources for the Code Clinic sessions held at the Center for Advanced Biomaterials for Healthcare in Naples (Italy)
 url: https://leo-gg.github.io/CodeClinicCABHC/
-site.baseurl: /CodeClinicCABHC
+baseurl: /CodeClinicCABHC
 logo: logo.png
-site.author: Leo-GG
+author: Leo-GG
