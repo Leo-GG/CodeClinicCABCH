@@ -1,4 +1,5 @@
-The Code Clinic is held every two weeks at the CABHC meeting room.
+The Code Clinic is an informal meeting for students and postdocs to get together and help each other review, discuss and fix their code (MATLAB or otherwise).
+It is held (approximately at best) every two weeks at the CABHC meeting room.
 
 Visit the [RESOURCES](Resources.html) page for links to useful tutorials and documentation.
 
