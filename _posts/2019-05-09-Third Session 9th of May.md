@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Third Session 9th of May"
 ---
-Second session of the Code Clinic.
+Third session of the Code Clinic.
 
 
 Today we developed a small program to control a stepper motor for a peristaltic pump for [Cinzia](https://www.iit.it/people/cinzia-sgambato) with Arduino. 
