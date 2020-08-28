@@ -10,3 +10,4 @@ Today we developed a small program to control a stepper motor for a peristaltic 
 We used some basic examples from the [AccelStepper](http://www.airspayce.com/mikem/arduino/AccelStepper/) library to make the motor run. Then we built upon those by adding serial communication so the pump speed can be controlled from a computer.
 Finally, we made a small GUI using [Processing](https://processing.org/) to communicate with the Arduino.
 Check the whole project at [https://github.com/Leo-GG/PumpControl](https://github.com/Leo-GG/PumpControl)
+!["Pump"](https://raw.githubusercontent.com/Leo-GG/PumpControl/master/pump_glamour_shot_1.jpeg)
